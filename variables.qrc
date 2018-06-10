@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="emtion">
+    <file>미니프로젝트/bad.png</file>
+    <file>미니프로젝트/littlegood.png</file>
+    <file>미니프로젝트/notgood.png</file>
+    <file>미니프로젝트/surpirse.png</file>
+  </qresource>
+</RCC>
